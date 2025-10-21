@@ -75,8 +75,8 @@ Sen: Peki bu nasıl çalışır?  ← Önceki soruyu hatırlıyor!
 
 ### 1️⃣ Repository'yi Klonlayın
 ```bash
-git clone https://github.com/YOUR_USERNAME/smart-rag-chatbot.git
-cd smart-rag-chatbot
+git clone https://github.com/nurullahsahinn/HybridRAG.git
+cd HybridRAG
 ```
 
 ### 2️⃣ Python Bağımlılıklarını Yükleyin
@@ -396,8 +396,8 @@ Bu proje şu harika teknolojileri kullanır:
 ## 📞 İletişim
 
 Sorularınız veya önerileriniz için:
-- GitHub Issues: [Create an issue](https://github.com/YOUR_USERNAME/smart-rag-chatbot/issues)
-- Email: your.email@example.com
+- GitHub Issues: [Create an issue](https://github.com/nurullahsahinn/HybridRAG/issues)
+- Email: nurullahsahin0088@gmail.com
 
 ---
 
@@ -409,4 +409,4 @@ Eğer bu proje işinize yaradıysa, ⭐ vermeyi unutmayın!
 
 **Not:** Bu proje tamamen ücretsiz ve açık kaynaklıdır. Kendi AI asistanınızı oluşturmak için mükemmel bir başlangıç noktasıdır!
 
-**Made with ❤️ and 🤖 by [Your Name]**
+**Made with ❤️ and 🤖 by Nurullah Sahin**

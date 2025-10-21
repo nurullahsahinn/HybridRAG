@@ -6,7 +6,7 @@ Thank you for your interest in contributing! This project welcomes contributions
 
 ### 🐛 Reporting Bugs
 
-1. Check if the bug has already been reported in [Issues](https://github.com/YOUR_USERNAME/smart-rag-chatbot/issues)
+1. Check if the bug has already been reported in [Issues](https://github.com/nurullahsahinn/HybridRAG/issues)
 2. If not, create a new issue with:
    - Clear title and description
    - Steps to reproduce
@@ -16,7 +16,7 @@ Thank you for your interest in contributing! This project welcomes contributions
 
 ### 💡 Suggesting Features
 
-1. Check existing [Issues](https://github.com/YOUR_USERNAME/smart-rag-chatbot/issues) for similar suggestions
+1. Check existing [Issues](https://github.com/nurullahsahinn/HybridRAG/issues) for similar suggestions
 2. Create a new issue with:
    - Clear description of the feature
    - Use cases and benefits
@@ -45,8 +45,8 @@ Thank you for your interest in contributing! This project welcomes contributions
 
 ```bash
 # Clone your fork
-git clone https://github.com/YOUR_USERNAME/smart-rag-chatbot.git
-cd smart-rag-chatbot
+git clone https://github.com/YOUR_USERNAME/HybridRAG.git
+cd HybridRAG
 
 # Install dependencies
 pip install -r requirements.txt
