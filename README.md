@@ -401,11 +401,6 @@ Sorularınız veya önerileriniz için:
 
 ---
 
-## ⭐ Star History
-
-Eğer bu proje işinize yaradıysa, ⭐ vermeyi unutmayın!
-
----
 
 **Not:** Bu proje tamamen ücretsiz ve açık kaynaklıdır. Kendi AI asistanınızı oluşturmak için mükemmel bir başlangıç noktasıdır!
 
